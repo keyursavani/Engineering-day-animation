@@ -22,6 +22,7 @@ class MyApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.start,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: <Widget>[
+
               Expanded(
                 flex: 5,
                 child: Image(fit: BoxFit.cover,

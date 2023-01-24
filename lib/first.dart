@@ -46,6 +46,7 @@ class MyHomePageState extends State<first> with SingleTickerProviderStateMixin  
   }
 }
 
+
 class GalaxyFitz extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
